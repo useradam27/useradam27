@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Software Engineer with a background in Java, Python, and FileMaker, focused on building practical tools using AWS cloud services. I enjoy tackling real-world operational challenges — from automating manual workflows to integrating AI into useful applications.
+I'm a Software Engineer with a background in Java, Python, and FileMaker, focused on building practical tools using AWS cloud services. I enjoy tackling real-world operational challenges, from automating manual workflows to integrating AI into useful applications.
 
 Currently pursuing AWS certifications and building a portfolio of projects that demonstrate backend architecture, cloud deployment, and AI integration.
 
