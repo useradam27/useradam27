@@ -44,8 +44,6 @@ Currently pursuing AWS certifications and building a portfolio of projects that 
 
 <div align="center">
 
-![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=useradam27&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=useradam27&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
