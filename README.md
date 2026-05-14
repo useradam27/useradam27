@@ -11,15 +11,15 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a Software Engineer with a background in Java, Python, and FileMaker, focused on building practical tools using AWS cloud services. I enjoy tackling real-world operational challenges, from automating manual workflows to integrating AI into useful applications.
 
 Currently pursuing AWS certifications and building a portfolio of projects that demonstrate backend architecture, cloud deployment, and AI integration.
 
-- 🔭 Working on: AI-powered resume scanning tool, portfolio website on AWS, and a FileMaker DDR parser
-- ☁️ Cloud: AWS (S3, CloudFront, Lambda, DynamoDB, Bedrock, Elastic Beanstalk)
-- 🛠️ Daily tools: Java, Spring Boot, Python, FileMaker
+- Working on: AI-powered resume scanning tool, portfolio website on AWS, and a FileMaker DDR parser
+- Cloud: AWS (S3, CloudFront, Lambda, DynamoDB, Bedrock, Elastic Beanstalk)
+- Daily tools: Java, Spring Boot, Python, FileMaker
 
 
 
@@ -50,8 +50,3 @@ Currently pursuing AWS certifications and building a portfolio of projects that 
 
 ---
 
-<div align="center">
-
-*Open to software engineering opportunities — feel free to reach out!*
-
-</div>
